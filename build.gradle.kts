@@ -15,7 +15,7 @@ val pluginUntilBuild: String by project
 val platformVersion: String by project
 
 group = "nerro.codeowners"
-description = "IntelliJ CODEOWNERS"
+description = "IntelliJ Code Owners Plugin"
 version = pluginVersion
 
 dependencies {

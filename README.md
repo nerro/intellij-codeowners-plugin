@@ -1,4 +1,4 @@
-# IntelliJ Codeowners Plugin
+# IntelliJ Code Owners Plugin
 
 [![Build Status](https://github.com/nerro/intellij-codeowners-plugin/workflows/Build/badge.svg)](https://github.com/nerro/intellij-codeowners-plugin/actions?query=workflow%3ABuild)
 
