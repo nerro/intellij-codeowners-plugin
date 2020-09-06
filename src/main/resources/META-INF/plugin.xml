@@ -1,0 +1,8 @@
+<idea-plugin>
+  <id>nerro.codeowners</id>
+  <name>Codeowners</name>
+  <vendor url="https://github.com/nerro">nerro</vendor>
+
+  <depends>com.intellij.modules.lang</depends>
+  <depends>com.intellij.modules.platform</depends>
+</idea-plugin>

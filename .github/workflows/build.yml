@@ -34,5 +34,5 @@ jobs:
       - name: Run Linters and Test
         run: ./gradlew check
 
-      #- name: Verify Plugin
-      #  run: ./gradlew verifyPlugin
+      - name: Verify Plugin
+        run: ./gradlew verifyPlugin
